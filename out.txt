@@ -1,0 +1,6 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+andrey      1400  0.0  0.0 164232  6572 tty2     Ssl+ 16:48   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+andrey      1592  0.0  0.0 188432 13788 tty2     Sl+  16:49   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+andrey     16794  0.1  0.0  10888  5204 pts/0    Ss   17:44   0:00 bash
+andrey     16820  0.0  0.0   9508  3252 pts/0    S+   17:44   0:00 bash ./script.sh
+andrey     16821  0.0  0.0  11536  3384 pts/0    R+   17:44   0:00 ps -u
